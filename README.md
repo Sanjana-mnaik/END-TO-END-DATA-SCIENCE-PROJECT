@@ -25,3 +25,4 @@ The application was deployed using Flask, a lightweight and flexible Python web 
 <img width="433" height="757" alt="Image" src="https://github.com/user-attachments/assets/25be05da-545d-4371-9bd0-c7ce528660eb" />
 
 <img width="450" height="573" alt="Image" src="https://github.com/user-attachments/assets/b2c14d39-6006-4d8d-a84e-a223d8b09025" />
+
