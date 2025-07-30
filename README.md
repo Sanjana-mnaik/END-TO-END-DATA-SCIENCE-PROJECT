@@ -20,6 +20,7 @@ As part of my internship at CodTech, I successfully completed Task 3: End-to-End
 
 The application was deployed using Flask, a lightweight and flexible Python web framework. The file main.py handled image classification logic by loading the trained model and making predictions, while app.py served as the entry point for launching the web server. The front-end was created using HTML and placed inside the templates/index.html file. Users can interact with the application by uploading images through this UI, after which the backend processes the input, performs inference, and displays whether the image is a cat or a dog. Uploaded images are temporarily stored in the static/uploads/ directory for processing. All development was carried out using Visual Studio Code (VS Code) on a Windows environment. The model achieved around 75% accuracy, which is reasonable for such a small dataset and was validated through both console output and test image predictions.
 
+#OUTPUT
 
 <img width="433" height="757" alt="Image" src="https://github.com/user-attachments/assets/25be05da-545d-4371-9bd0-c7ce528660eb" />
 
